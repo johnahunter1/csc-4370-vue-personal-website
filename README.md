@@ -29,7 +29,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone [this-repo-url]
+git clone https://github.com/johnahunter1/csc-4370-vue-personal-website
 
 # Navigate to the project directory
 cd csc-4370-vue-personal-website
